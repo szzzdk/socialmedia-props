@@ -1,0 +1,10 @@
+.header {
+    grid-area: h;
+    background: pink;
+    margin-bottom: 13px;
+}
+
+.header__img {
+    width: 40px;
+    padding: 5px
+}
